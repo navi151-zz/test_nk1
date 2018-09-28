@@ -1,2 +1,2 @@
 # test_nk1
-test
+test repo for git commands
